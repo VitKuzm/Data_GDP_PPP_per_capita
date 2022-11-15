@@ -1,6 +1,6 @@
 <H1>Hi, I'm Vitali!</H1>
 
-The repository includes the info about the project <h6>GDP PPP per capita and its correlation with level of corruption and and Life Expectancy"</h6>
+The repository includes the project <a href = 'https://github.com/VitKuzm/Data_GDP_PPP_per_capita/blob/main/case2.ipynb'> GDP PPP per capita and its correlation with level of corruption and and Life Expectancy"</a>
 
 
 <h3>Project description:</h3>
