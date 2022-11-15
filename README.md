@@ -4,7 +4,7 @@ The repository includes the info about the projects I worked with:
 
 
 
-##1. GDP PPP per capita and its correlation with level of corruption and and Life Expectancy.
+<H1>1. GDP PPP per capita and its correlation with level of corruption and and Life Expectancy.</H1>
 
 Project description:
 
